@@ -22,7 +22,7 @@ body {
 .container {
     display: flex;
     gap: 10px;
-    width: 600px;
+    width: 650px;
     height:auto;
     background-color: var(--White);
     border-radius: 10px;
